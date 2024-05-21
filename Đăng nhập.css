@@ -1,0 +1,82 @@
+.macbook-air-2-child {
+  position: absolute;
+  top: 50px;
+  left: 58px;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset, 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(30px);
+  width: 666px;
+  height: 733px;
+}
+.macbook-air-2-item {
+  border: 0;
+  background-color: var(--color-gray-100);
+  top: 362px;
+  left: 134px;
+  width: 515px;
+  height: 80px;
+}
+.macbook-air-2-child1,
+.macbook-air-2-inner,
+.macbook-air-2-item {
+  position: absolute;
+  left: 98px;
+  border-radius: var(--br-34xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset, 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(30px);
+}
+.macbook-air-2-inner {
+  border: 0;
+  background-color: var(--color-gray-100);
+  top: 482px;
+  left: 98px;
+  width: 515px;
+  height: 80px;
+}
+.macbook-air-2-child1 {
+  top: 600px;
+  left: 297px;
+  background-color: var(--color-lime);
+  width: 188px;
+  height: 50px;
+}
+.n-1-icon7 {
+  position: absolute;
+  top: 109px;
+  left: 322px;
+  border-radius: var(--br-330xl);
+  width: 139px;
+  height: 139px;
+  object-fit: cover;
+}
+.DangNhap {
+  position: absolute;
+  top: 614px;
+  left: 330px;
+  color: var(--color-white);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.NhapMK {
+  top: 510px;
+}
+.macbook-air-2 {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  background-image: url(./public/image-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-700);
+  font-family: var(--font-inter);
+}
+input {
+  padding-left: 57px;
+  text-decoration: none;
+}
